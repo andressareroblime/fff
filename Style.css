@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçario-cor{
+    background-color: #181d2d;
+   color: #e3e8f3;
+   display: flex;
+   padding: 0 8%;
+  }
+ .cabeçario-logo{
+    width: 16%;
+    margin: 0 10px;
+    padding: 0 10px ;
+    display:flex;
